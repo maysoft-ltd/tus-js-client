@@ -1,12 +1,9 @@
 {
-  "presets": [
-    [
-      "@babel/preset-env",
-      {
-        "modules": false,
-        "corejs": false,
-        "forceAllTransforms": true
-      }
-    ]
-  ]
+	"presets": [
+		[ "@babel/preset-env", {
+			"modules": false,
+			"corejs": false,
+			"forceAllTransforms": true
+		} ]
+	]
 }
